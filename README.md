@@ -1,6 +1,6 @@
 #  Dot Voting
 
-dot voting is a preset for the Moodle activity database.
+Dot Voting is a preset for the Moodle activity database.
 
 ## Description
 
