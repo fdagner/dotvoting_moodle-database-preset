@@ -17,5 +17,5 @@ To define and change the categories, go to "Fields" and enter them in the “cho
 
 The preset is available in German, but there is not so much to translate. The template can easily be adapted. 
 
-<img width="500" alt="single view" src="/screenshots/einzelansicht.jpg">
-<img width="500" alt="single view" src="/screenshots/listenansicht.jpg">
+<img width="700" alt="single view" src="/screenshots/einzelansicht.jpg">
+<img width="700" alt="single view" src="/screenshots/listenansicht.jpg">
