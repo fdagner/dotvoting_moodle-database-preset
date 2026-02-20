@@ -8,7 +8,7 @@ Users can create a dot voting.
 
 ## Getting started
 
-Download the [release file](https://github.com/fdagner/mindmap_moodle-database-preset-/releases). 
+Download the [release file](https://github.com/fdagner/dotvoting_moodle-database-preset-/releases). 
 Create a "Database" activity in Moodle and then upload the ZIP file.
 
 To define and change the categories, go to "Fields" and enter them in the “choice” dropdown menu. You can specify the number of dots in the “number” field.
