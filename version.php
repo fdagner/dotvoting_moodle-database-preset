@@ -15,14 +15,15 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * @package    datapreset
- * @subpackage lessonstudy
+ * Data Resources preset version information.
+ *
+ * @package    datapreset_dotvoting
  * @copyright  Florian Dagner <florian.dagner@outlook.de>
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version   = 202511230003;        // The current plugin version (Date: YYYYMMDDXX).
-$plugin->requires  = 2023080100;        // Requires this Moodle version.
-$plugin->component = 'datapreset_mindmap'; // Full name of the plugin (used for diagnostics)
+$plugin->version   = 2026022000;        // The current plugin version (Date: YYYYMMDDXX).
+$plugin->requires  = 2024080100;        // Requires this Moodle version.
+$plugin->component = 'datapreset_dotvoting'; // Full name of the plugin (used for diagnostics)

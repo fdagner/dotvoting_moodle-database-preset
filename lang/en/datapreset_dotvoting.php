@@ -23,8 +23,8 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['modulename'] = 'lessonstudy';
-$string['modulename_help'] = 'Users can make a lessonstudy.';
-$string['pluginname'] = 'lessonstudy';
-$string['privacy:metadata'] = 'lessonstudy plugin does not store any personal data.';
+$string['modulename'] = 'dot voting';
+$string['modulename_help'] = 'Users can make a dot voting.';
+$string['pluginname'] = 'dot voting';
+$string['privacy:metadata'] = 'dot voting plugin does not store any personal data.';
 
