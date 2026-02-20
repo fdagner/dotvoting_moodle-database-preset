@@ -1,4 +1,4 @@
-#  dot voting
+#  Dot Voting
 
 dot voting is a preset for the Moodle activity database.
 
@@ -17,5 +17,5 @@ To define and change the categories, go to "Fields" and enter them in the “cho
 
 The preset is available in German, but there is not so much to translate. The template can easily be adapted. 
 
-<img width="400" alt="single view" src="/screenshots/einzelansicht.png">
-<img width="400" alt="single view" src="/screenshots/listenansicht.png">
+<img width="400" alt="single view" src="/screenshots/einzelansicht.jpg">
+<img width="400" alt="single view" src="/screenshots/listenansicht.jpg">
